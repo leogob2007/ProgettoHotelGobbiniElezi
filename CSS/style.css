@@ -1,5 +1,5 @@
 body{
-    background-color: #d3b589;
+    background-color: #d8ca8d;
 }
 h1, main{
     text-align: center;
@@ -12,6 +12,9 @@ h1{
     color: #7e1010;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-nav, .pel{
-    background-color: #d8c09d;
+.navbar, .pel{
+    background-color: #bea672;
+}
+.homo{
+    margin-left: 25px;
 }
