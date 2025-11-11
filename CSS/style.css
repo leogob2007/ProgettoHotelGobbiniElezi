@@ -1,3 +1,17 @@
 body{
-    background-color: #ffebcd;
+    background-color: #d3b589;
+}
+h1, main{
+    text-align: center;
+}
+h1{
+    margin: 20px;
+    font-size: 50px;
+}
+.pando{
+    color: #7e1010;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav, .pel{
+    background-color: #d8c09d;
 }
