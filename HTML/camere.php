@@ -32,7 +32,11 @@
         <p>Pagina in costruzione. Qui verranno mostrate le camere disponibili e le relative informazioni.</p>
     </main>
 
-    <footer class="mt-5">
+    <footer>
+        <p><strong>Agriturismo da Pando</strong></p>
+        <p>Maremma Toscana - Immersi nella natura</p>
+        <p>Tel: +39 0564 123456 | ✉️ Email: info@agriturismodapando.it</p>
+        <p style="margin-top: 2rem; font-size: 0.9rem;">&copy; 2024 Agriturismo da Pando - Tutti i diritti riservati</p>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
