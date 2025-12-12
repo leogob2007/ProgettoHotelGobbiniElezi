@@ -169,5 +169,23 @@ footer p {
 }
 
 
+#carouselExampleCaptions {
+    max-width: 70%;
+    max-height: 70%;
+    margin: 2rem auto;
+}
+
+
+#carouselExampleCaptions .carousel-caption {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+}
+
+.carousel-item img {
+    border-radius: 0.5rem;
+    max-height: 500px;
+    object-fit: cover;
+}
 
 
